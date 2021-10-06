@@ -10,5 +10,15 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "api": {
+    "ntfs": {
+      "commission": [
+        {
+          "id": "0x04405fc581793dc024a78fa96834e7e28720fee433eb3eeaf7ce4d9752186660",
+          "hash": "0x04405fc581793dc024a78fa96834e7e28720fee433eb3eeaf7ce4d9752186660"
+        }
+      ]
+    }
   }
 }
